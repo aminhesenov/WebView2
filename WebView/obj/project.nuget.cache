@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/dTG15ZaeZw=",
+  "success": true,
+  "projectFilePath": "D:\\C# lesson\\WebView\\WebView\\WebView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aminh\\.nuget\\packages\\microsoft.web.webview2\\1.0.2903.40\\microsoft.web.webview2.1.0.2903.40.nupkg.sha512"
+  ],
+  "logs": []
+}
